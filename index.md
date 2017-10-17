@@ -45,4 +45,5 @@ I am a software engineer, woodworker, and ...
 * [apple](https://apple.com)
     * Sales Associate
 * [client logic](#)
-    	* Technical Support Representative
+    * Technical Support Representative
+      
