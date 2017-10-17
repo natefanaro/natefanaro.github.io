@@ -1,0 +1,12 @@
+# Site settings
+title: nate fanaro
+tag_text: nate fanaro
+description:
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
+
+google_analytics: UA-1091244-19
