@@ -13,10 +13,9 @@ I am a software engineer, woodworker, and ...
 
 ## social media
 * [github](https://github.com/natefanaro)
+* [linkedin](https://www.linkedin.com/in/natefanaro/)
+* [stackoverflow](https://stackoverflow.com/users/50501/nate)
 * [instagram](https://instagram.com/natefanaro)
-* [linkedin](www.linkedin.com/in/natefanaro)
-* [pinterest](https://www.pinterest.com/natefanaro/)
-* [twitter](https://twitter.com/natefanaro)
 
 ## old projects
 * [ios apps](https://sensortower.com/ios/publisher/nate-fanaro/371951988/)
