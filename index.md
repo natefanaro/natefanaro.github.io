@@ -33,6 +33,9 @@ I am a software engineer, woodworker, and ...
 ## resume
 * [acv auctions](https://acvauctions.com)
     * Senior Engineer
+        * Backend
+        * DevOps/Infrastructure
+        * Mobile iOS
 * [clarityad](https://clarityad.com)
     * Senior Engineer
 * [synacor](https://synacor.com)
