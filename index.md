@@ -1,7 +1,8 @@
 ---
 layout: default
----
+published: false
 
+---
 I am a software engineer, woodworker, and ...
 
 ## my work
@@ -48,4 +49,3 @@ I am a software engineer, woodworker, and ...
     * Sales Associate
 * [client logic](#)
     * Technical Support Representative
-      
