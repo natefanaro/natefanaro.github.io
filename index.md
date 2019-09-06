@@ -1,6 +1,5 @@
 ---
 layout: default
-published: false
 
 ---
 I am a software engineer, woodworker, and ...
