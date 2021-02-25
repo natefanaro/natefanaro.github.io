@@ -17,7 +17,6 @@ I am a software engineer, woodworker, and ...
 * [github](https://github.com/natefanaro)
 * [linkedin](https://www.linkedin.com/in/natefanaro/)
 * [stackoverflow](https://stackoverflow.com/users/50501/nate)
-* [instagram](https://instagram.com/natefanaro)
 
 ## old projects
 
@@ -37,7 +36,7 @@ I am a software engineer, woodworker, and ...
 ## resume
 
 * [torch.io](https://torch.io "torch.io")
-  * Senior Engineer
+  * Technical Lead
     * Backend
     * DevOps/Infrastructure
 * [acv auctions](https://acvauctions.com)
