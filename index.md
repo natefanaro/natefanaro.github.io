@@ -2,8 +2,6 @@
 layout: default
 
 ---
-I am a software engineer, woodworker, and...
-
 ## contact
 
 * [email](mailto:natefanaro@gmail.com)
