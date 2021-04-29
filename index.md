@@ -36,9 +36,9 @@ I am a software engineer, woodworker, and ...
 ## resume
 
 * [torch.io](https://torch.io "torch.io")
+  * Technical Director, DevOps
   * Technical Lead
-    * Backend
-    * DevOps/Infrastructure
+  * Senior Engineer, Backend
 * [acv auctions](https://acvauctions.com)
   * Senior Engineer
     * Backend
