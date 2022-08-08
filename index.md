@@ -4,7 +4,7 @@ layout: default
 ---
 ## contact
 
-* [email](mailto:natefanaro@gmail.com)
+* [email](mailto:natefanaro+thisisspam@gmail.com)
 * [keybase](https://keybase.io/natefanaro)
 
 ## resume
