@@ -33,7 +33,7 @@ layout: default
 
 ## stuff i did a while ago
 
-### ![github](https://github.githubassets.com/images/icons/emoji/octocat.png =34x34)
+### ![github](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 * [k8s-base](https://github.com/natefanaro/k8s-base)
 * [piface-rest-api](https://github.com/natefanaro/piface-rest-api)
