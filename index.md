@@ -46,3 +46,8 @@ layout: default
 * [@CapsCop](http://twitter.com/capscop)
 * [@FanDumb](http://twitter.com/fandumb)
 * [@RealDonaldCats](http://twitter.com/RealDonaldCats)
+
+### videos
+
+* [autocross](https://www.youtube.com/playlist?list=PL2OTHR3QXwiSdlCkmHFiaGv6ATAGjr-iG)
+* [drone](https://www.youtube.com/playlist?list=PL2OTHR3QXwiS8WsNbUneNWnB2See0nAa6)
