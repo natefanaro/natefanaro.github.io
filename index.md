@@ -30,3 +30,19 @@ layout: default
   * Sales Associate
 * [client logic](#)
   * Technical Support Representative
+
+## stuff i did a while ago
+
+### ![github](https://github.githubassets.com/images/icons/emoji/octocat.png =34x34)
+
+* [k8s-base](https://github.com/natefanaro/k8s-base)
+* [piface-rest-api](https://github.com/natefanaro/piface-rest-api)
+* [learn_docker](https://github.com/natefanaro/learn_docker)
+* [learn_terraform](https://github.com/natefanaro/learn_terraform)
+
+### 🐦 bots
+
+* [@AllTriviaBot](http://twitter.com/AllTriviaBot)
+* [@CapsCop](http://twitter.com/capscop)
+* [@FanDumb](http://twitter.com/fandumb)
+* [@RealDonaldCats](http://twitter.com/RealDonaldCats)
