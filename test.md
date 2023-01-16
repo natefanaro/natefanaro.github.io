@@ -1,6 +1,5 @@
 ---
 image: ''
-published: false
 
 ---
 # test
