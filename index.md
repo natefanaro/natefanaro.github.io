@@ -5,7 +5,6 @@ layout: default
 ## contact
 
 * [email](mailto:natefanaro@gmail.com)
-* [keybase](https://keybase.io/natefanaro)
 
 ## resume
 
@@ -31,7 +30,7 @@ layout: default
 * [client logic](#)
   * Technical Support Representative
 
-## stuff i did a while ago
+## stuff i have done
 
 ### github
 
@@ -51,3 +50,8 @@ layout: default
 
 * [autocross](https://www.youtube.com/playlist?list=PL2OTHR3QXwiSdlCkmHFiaGv6ATAGjr-iG)
 * [drone](https://www.youtube.com/playlist?list=PL2OTHR3QXwiS8WsNbUneNWnB2See0nAa6)
+
+### physical goods
+
+* [etsy store](designbyfanaro.etsy.com "Etsy Store")
+* [3d models](https://cults3d.com/en/users/GOODWITH/creations "3D Models")
