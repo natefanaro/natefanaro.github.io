@@ -32,7 +32,7 @@ layout: default
 
 ## stuff i have done
 
-### physical goods
+### product design
 
 * [etsy store](designbyfanaro.etsy.com "Etsy Store")
 * [3d models](https://cults3d.com/en/users/GOODWITH/creations "3D Models")
