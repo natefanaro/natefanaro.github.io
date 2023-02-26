@@ -32,6 +32,11 @@ layout: default
 
 ## stuff i have done
 
+### physical goods
+
+* [etsy store](designbyfanaro.etsy.com "Etsy Store")
+* [3d models](https://cults3d.com/en/users/GOODWITH/creations "3D Models")
+
 ### github
 
 * [k8s-base](https://github.com/natefanaro/k8s-base)
@@ -50,8 +55,3 @@ layout: default
 
 * [autocross](https://www.youtube.com/playlist?list=PL2OTHR3QXwiSdlCkmHFiaGv6ATAGjr-iG)
 * [drone](https://www.youtube.com/playlist?list=PL2OTHR3QXwiS8WsNbUneNWnB2See0nAa6)
-
-### physical goods
-
-* [etsy store](designbyfanaro.etsy.com "Etsy Store")
-* [3d models](https://cults3d.com/en/users/GOODWITH/creations "3D Models")
