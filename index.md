@@ -4,10 +4,11 @@ layout: default
 ---
 ## contact
 
-* [email](mailto:natefanaro@gmail.com)
+* [email](mailto:natefanaro+thisisspam@gmail.com)
 
 ## resume
-
+* "[classified](#)"
+  * Cloud Engineer
 * [torch.io](https://torch.io "torch.io")
   * Technical Director, DevOps
   * Technical Lead
